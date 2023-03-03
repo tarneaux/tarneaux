@@ -1,3 +1,5 @@
-👋 Hi, I’m @tarneaux (pronounce tarneo)
+Python/rust/web programmer.
 
-👀 about me: [tarneo.fr](https://tarneo.fr/about)
+Occasional maker.
+
+More about me: [tarneo.fr](https://tarneo.fr/about)
