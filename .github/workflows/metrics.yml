@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: core
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_habits: true
