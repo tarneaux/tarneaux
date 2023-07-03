@@ -18,3 +18,10 @@ jobs:
           template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
+          plugin_habits: true
+          plugin_lines: true
+          plugin_isocalendar: true
+          plugin_code: true
+          plugin_rss: true
+          plugin_rss_source: https://tarneo.fr/posts/index.xml
+          plugin_rss_limit: 5
