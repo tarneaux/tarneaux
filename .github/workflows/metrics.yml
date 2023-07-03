@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: terminal
+          template: core
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_habits: true
@@ -25,3 +25,5 @@ jobs:
           plugin_rss: true
           plugin_rss_source: https://tarneo.fr/posts/index.xml
           plugin_rss_limit: 5
+          plugin_pagespeed: true
+          plugin_pagespeed_url: https://tarneo.fr/
