@@ -1,7 +1,1 @@
-Python/rust/web programmer.
-
-Occasional maker.
-
-Administator of [renn.es](https://renn.es/).
-
-More about me: [tarneo.fr](https://tarneo.fr/whoami)
+I am a high school student, but also a computer programmer, Free Software advocate and sysadmin at Renn.es, a 90s-style tilde community.
