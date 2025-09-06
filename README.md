@@ -1,6 +1,6 @@
-I'm tarneo, a university student, computer programmer, sysadmin at and president of [Renn.es](https://renn.es) and {privacy, right to repair, free software} advocate.
+I'm tarneo, an undergrad student and hacker. On the interwebs I'm known for my electronics, FOSS programming and overall computery nerdiness.
 
-Check out my [blog](https://tarneo.fr) !
+See [my blog](https://tarneo.fr/) for more information.
 
 [Contact & PGP](https://tarneo.fr/contact/)
 
